@@ -2,7 +2,7 @@
 
 I am almost a computer scientist with a **data science degree**, around **5 years of industry work experience**, and a **passion for automated systems and data**!
 
-This is my private repo, which I normally use for private projects and research but here are a couple of **interesting public projects** I have linked for you:
+This is my private repo, which I normally use for private projects and research, however here is a couple of **interesting public projects** I have linked for you:
 
 | Project                         | Why is it cool?                                                                                         |
 |---------------------------------|-----------------------------------------------------------------------------------------------------|
