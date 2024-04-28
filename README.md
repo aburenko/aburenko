@@ -12,4 +12,4 @@ This is my private repo, which I normally use for private projects and research,
 | [Lofi Pomodoro ](https://github.com/jpolina/lofi-pomodoro-chrome-extension)                  | I contributed to a great Chrome extension to hear Lofi and use the Pomodoro system simultaneously.           |
 
 
-If you would like to see some of my recent art visit: aburenko.github.io :art:
+If you would like to see some of my recent art visit: :art: [aburenko.github.io](https://aburenko.github.io/index.html) :art:
